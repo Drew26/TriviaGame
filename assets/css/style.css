@@ -1,0 +1,18 @@
+body {
+    background-image: url("../images/oli-woodman-1194990-unsplash.jpg");
+    color: white;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+
+}
+
+.jumbotron {
+    background-image: url("../images/gears-1236578__340.jpg");
+    margin: 100px;
+    color: black;
+    opacity: .6;
+}
